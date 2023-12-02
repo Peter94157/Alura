@@ -1,0 +1,35 @@
+NodeJS
+
+O que é um node JS ?
+	É um interpretador de javascript, faz com que o javascript rode fora do navegador.
+
+oque conseguimos fazer ? 
+	Chatbot
+	REST API
+	Iot
+	Streaming 
+	Web server
+	Web scarping
+	
+	
+
+
+V8 (Desenvolvida pelo Google)- é a parte que entende o javaScript 
+Libuv - é oq dar caracteriscas de uma linguagem Backend para o node, faz com que consigamos nos conectar em banco de dados 
+
+NPM/YARN - Repositorios de codigo voltado para o nodeJs
+
+Codigo Sícrono 
+	Execução em sequencia
+	uma instrução apos a outra 
+
+Codigo Assicrono
+	Não espera a finalização de uma tarefa para inciar a seguinte 
+	aguarda a finalização da tarefa para retorna o resultado
+
+Expressoes regulares, bastante utilizadas.
+
+Comando para capturar comando do terminall process.argv -> retorna um array de string com a instalação do node.js e o caminho do arquivo
+
+
+
